@@ -5,10 +5,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 This project, built using the latest Next.js and TypeScript, is a replication of Zoom, a popular video conferencing tool. It provides users with the ability to securely log in, initiate meetings, and utilize a variety of meeting features such as recording, screen sharing, and participant management.
 
-If you're just starting out and need help, or if you encounter any bugs, feel free to join our active Discord community of over 30,000 members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
-
 ## <a name="tech-stack">⚙️ Technology Used</a>
 
 - Next.js
@@ -42,7 +38,6 @@ If you're just starting out and need help, or if you encounter any bugs, feel fr
 
 👉 **Responsive User Interface**: Adheres to responsive design principles for optimal user experience across various devices, adapting smoothly to different screen sizes and resolutions.
 
-And many more, including robust code architecture and reusability.
 ## Getting Started
 
 First, run the development server:
